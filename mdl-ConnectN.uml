@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>MODULES</ID>
+  <OriginalElement>mdl-ConnectN</OriginalElement>
+  <nodes>
+    <node x="-391.0" y="-58.0">mdl-ConnectN</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="39.0" y="10.0" />
+  <SelectedNodes>
+    <node>mdl-ConnectN</node>
+  </SelectedNodes>
+  <Categories />
+</Diagram>
+
